@@ -16,7 +16,7 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 border-b border-border/50 bg-background/80 backdrop-blur-xl">
       <div className="section-container flex h-16 items-center justify-between">
-        <a href="#" className="font-heading text-xl font-bold tracking-tight">NOVO FLOW
+        <a href="#" className="font-heading text-xl font-bold tracking-tight">NOVO
           <span className="text-gradient">FLOW digital </span>
         </a>
 

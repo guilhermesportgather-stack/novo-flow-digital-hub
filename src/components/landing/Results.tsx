@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
 
 const stats = [
-  { value: "+100", label: "Sites criados" },
-  { value: "+100", label: "Negócios otimizados" },
-  { value: "+50K", label: "Visualizações no Google" },
+  { value: "+107", label: "Sites criados" },
+  { value: "+113", label: "Negócios otimizados" },
+  { value: "+52K", label: "Visualizações no Google" },
 ];
 
 const Results = () => (

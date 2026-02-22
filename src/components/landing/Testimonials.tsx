@@ -2,9 +2,9 @@ import { motion } from "framer-motion";
 import { Star } from "lucide-react";
 
 const testimonials = [
-{ name: "Maria S.", role: "Lojista", text: "A Novo Flow transformou minha loja. Hoje tenho clientes novos toda semana!" },
-{ name: "Carlos R.", role: "Autônomo", text: "Finalmente entendi o digital. Profissionais incríveis e resultados reais." },
-{ name: "Ana P.", role: "Empresária", text: "Atendimento humano e tecnologia de ponta. Recomendo para qualquer negócio." }];
+{ name: "Wagnmer B.", role: "Top Pool", text: "A Novo Flow transformou minha loja. Hoje tenho clientes novos toda semana!" },
+{ name: "Max V.", role: "Kepping Manutenção", text: "Finalmente entendi o digital. Profissionais incríveis, humanos e resultados reais." },
+{ name: "Ana P.", role: "Estética Feminia", text: "Atendimento humano e tecnologia de ponta. Recomendo para qualquer negócio." }];
 
 
 const Testimonials = () =>

@@ -3,7 +3,7 @@ import { BarChart3, Megaphone, Database, Globe, MapPin, Palette } from "lucide-r
 
 const services = [
 { icon: BarChart3, title: "Consultoria Comercial", desc: "Diagnóstico completo e planejamento estratégico para escalar suas vendas." },
-{ icon: Megaphone, title: "Tráfego Pago", desc: "Campanhas otimizadas no Google e Meta para gerar leads qualificados." },
+{ icon: Megaphone, title: "Tráfego Pago", desc: "Campanhas otimizadas no Google e Meta ADS para gerar leads qualificados." },
 { icon: Database, title: "CRM", desc: "Organização e automação do seu funil de vendas com ferramentas inteligentes." },
 { icon: Globe, title: "Landing Pages", desc: "Páginas de alta conversão com design profissional e copywriting estratégico." },
 { icon: MapPin, title: "Google Meu Negócio", desc: "Otimização da sua presença local para atrair clientes na sua região." },

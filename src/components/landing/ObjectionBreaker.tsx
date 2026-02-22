@@ -52,7 +52,7 @@ const ObjectionBreaker = () =>
             <h3 className="mt-5 font-heading text-base font-bold text-center">
               {o.question}
             </h3>
-            <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
+            <p className="mt-3 text-sm leading-relaxed text-muted-foreground text-center">
               {o.answer}
             </p>
           </motion.div>

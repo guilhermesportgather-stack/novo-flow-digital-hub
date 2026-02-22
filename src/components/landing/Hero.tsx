@@ -49,7 +49,7 @@ const Hero = () =>
           <img
 
           alt="Dashboard digital futurista com gráficos e métricas de marketing"
-          className="w-full max-w-lg rounded-lg" src="/lovable-uploads/1563438b-8d31-4c28-851d-d1f583760d7c.png" />
+          className="w-full max-w-lg rounded-full border-none" src="/lovable-uploads/d851e61a-17d5-402a-be6d-acf60808ffcd.png" />
 
         </div>
       </motion.div>

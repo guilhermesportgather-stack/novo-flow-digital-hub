@@ -6,7 +6,7 @@ const services = [
 { icon: Megaphone, title: "Tráfego Pago", desc: "Campanhas otimizadas no Google e Meta ADS para gerar leads qualificados." },
 { icon: Database, title: "CRM", desc: "Organização e automação do seu funil de vendas com ferramentas inteligentes." },
 { icon: Globe, title: "Landing Pages", desc: "Páginas de alta conversão com design profissional e copywriting estratégico." },
-{ icon: MapPin, title: "Google Meu Negócio", desc: "Otimização da sua presença local para atrair clientes na sua região." },
+{ icon: MapPin, title: "Google Meu Negócio", desc: "Otimização da sua presença local para atrair mais clientes na sua região." },
 { icon: Palette, title: "Design", desc: "Identidade visual e materiais gráficos que transmitem autoridade e profissionalismo." }];
 
 

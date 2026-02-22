@@ -1,4 +1,4 @@
-import googleLogo from "/novo-flow-digital-hub/Logo-google-icon-PNG.png";
+import googleLogo from "https://github.com/guilhermesportgather-stack/novo-flow-digital-hub/blob/917dea8be62906267d4807dc960538c4d1f274bc/Logo-google-icon-PNG.png";
 
 const clientLogos = [
   { name: "Google", src: googleLogo },

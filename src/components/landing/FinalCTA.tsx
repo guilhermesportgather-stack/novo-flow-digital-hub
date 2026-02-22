@@ -30,10 +30,10 @@ const FinalCTA = () =>
             Falar com especialista
           </a>
           <a
-          href="https://wa.me/5541999999999?text=Olá!%20Gostaria%20de%20agendar%20um%20diagnóstico."
+
           target="_blank"
           rel="noopener noreferrer"
-          className="border-gradient inline-flex items-center rounded-lg bg-card px-8 py-4 font-heading text-sm font-bold uppercase tracking-wider text-foreground transition-colors hover:bg-muted">
+          className="border-gradient inline-flex items-center rounded-lg bg-card px-8 py-4 font-heading text-sm font-bold uppercase tracking-wider text-foreground transition-colors hover:bg-muted" href="https://api.whatsapp.com/send?phone=5541988642463&text=Quero%20realizar%20meu%20Flow%20-%20diagn%C3%B3stico!">
 
             Agendar diagnóstico
           </a>

@@ -43,7 +43,7 @@ const Services = () =>
             <h3 className="mt-5 font-heading text-lg font-bold uppercase tracking-wider text-center">
               {s.title}
             </h3>
-            <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
+            <p className="mt-3 text-sm leading-relaxed text-muted-foreground text-center">
               {s.desc}
             </p>
           </motion.div>

@@ -1,3 +1,13 @@
+import googleLogo from "/Logo-google-icon-PNG.png";
+
+const clientLogos = [
+  { name: "Google", src: googleLogo },
+  { name: "Logo 2", src: null },
+  { name: "Logo 3", src: null },
+  { name: "Logo 4", src: null },
+  { name: "Logo 5", src: null },
+];
+
 const Footer = () =>
 <footer className="border-t border-border py-12">
     <div className="section-container">

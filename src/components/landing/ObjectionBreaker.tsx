@@ -49,7 +49,7 @@ const ObjectionBreaker = () =>
             <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary/10 mx-[120px]">
               <o.icon className="h-5 w-5 text-primary" />
             </div>
-            <h3 className="mt-5 font-heading text-base font-bold">
+            <h3 className="mt-5 font-heading text-base font-bold text-center">
               {o.question}
             </h3>
             <p className="mt-3 text-sm leading-relaxed text-muted-foreground">

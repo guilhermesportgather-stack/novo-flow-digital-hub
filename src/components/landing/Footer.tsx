@@ -21,7 +21,7 @@ const Footer = () =>
       {/* Space for client logos */}
       <div className="mt-12 border-t border-border pt-8">
         <p className="text-center text-xs uppercase tracking-wider text-muted-foreground">
-          Empresas que confiam na Novo Flow
+          Empresas que conectam tecnologia com Novo Flow
         </p>
         <div className="mt-6 flex flex-wrap items-center justify-center gap-8 opacity-30">
           {["Logo 1", "Logo 2", "Logo 3", "Logo 4", "Logo 5"].map((l) =>

@@ -44,7 +44,7 @@ const Testimonials = () =>
             </p>
             <div className="mt-6">
               <p className="font-heading text-sm font-bold text-center">{t.name}</p>
-              <p className="text-xs text-muted-foreground">{t.role}</p>
+              <p className="text-xs text-muted-foreground text-center">{t.role}</p>
             </div>
           </motion.div>
       )}

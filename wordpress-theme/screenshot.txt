@@ -1,0 +1,4 @@
+NOTA: Para o WordPress reconhecer o tema, você precisa adicionar um arquivo
+screenshot.png (1200x900px recomendado) na raiz da pasta do tema.
+
+Use uma captura de tela da landing page ou crie uma imagem representativa.

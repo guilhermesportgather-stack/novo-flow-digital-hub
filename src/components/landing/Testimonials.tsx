@@ -2,9 +2,9 @@ import { motion } from "framer-motion";
 import { Star } from "lucide-react";
 
 const testimonials = [
-{ name: "Wagnmer B.", role: "Top Pool", text: "A Novo Flow transformou minha loja. Hoje tenho clientes novos toda semana!" },
-{ name: "Max V.", role: "Kepping Manutenção", text: "Finalmente entendi o digital. Profissionais incríveis, humanos e resultados reais." },
-{ name: "Ana P.", role: "Estética Feminia", text: "Atendimento humano e tecnologia de ponta. Recomendo para qualquer negócio." }];
+{ name: "Maria S.", role: "Lojista", text: "A Novo Flow transformou minha loja. Hoje tenho clientes novos toda semana!" },
+{ name: "Carlos R.", role: "Autônomo", text: "Finalmente entendi o digital. Profissionais incríveis e resultados reais." },
+{ name: "Ana P.", role: "Empresária", text: "Atendimento humano e tecnologia de ponta. Recomendo para qualquer negócio." }];
 
 
 const Testimonials = () =>
@@ -43,7 +43,7 @@ const Testimonials = () =>
               "{t.text}"
             </p>
             <div className="mt-6">
-              <p className="font-heading text-sm font-bold">{t.name}</p>
+              <p className="font-heading text-sm font-bold text-center">{t.name}</p>
               <p className="text-xs text-muted-foreground">{t.role}</p>
             </div>
           </motion.div>

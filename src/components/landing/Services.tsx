@@ -40,7 +40,7 @@ const Services = () =>
             <div className="h-12 w-12 rounded-lg bg-primary/10 transition-colors group-hover:bg-primary/20 items-center justify-center flex flex-row gap-0 mx-[120px]">
               <s.icon className="h-6 w-6 text-primary" />
             </div>
-            <h3 className="mt-5 font-heading text-lg font-bold uppercase tracking-wider">
+            <h3 className="mt-5 font-heading text-lg font-bold uppercase tracking-wider text-center">
               {s.title}
             </h3>
             <p className="mt-3 text-sm leading-relaxed text-muted-foreground">

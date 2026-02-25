@@ -68,10 +68,10 @@ const Navbar = () => {
                 </a>
             )}
               <a
-              href="https://wa.me/5541999999999"
+
               target="_blank"
               rel="noopener noreferrer"
-              className="mt-2 rounded-lg bg-gradient-primary px-5 py-3 text-center font-heading text-xs font-bold uppercase tracking-wider text-primary-foreground">
+              className="mt-2 rounded-lg bg-gradient-primary px-5 py-3 text-center font-heading text-xs font-bold uppercase tracking-wider text-primary-foreground" href="https://api.whatsapp.com/send?phone=5541988642463&text=Eu%20quero%20saber%20mais%20sobre%20o%20novo%20flow%20para%20meu%20neg%C3%B3cio.">
 
                 Falar com especialista
               </a>
